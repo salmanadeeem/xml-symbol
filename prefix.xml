@@ -1,0 +1,31 @@
+xmlns="Example.com"
+xmlns:i25="Example.com"
+xmlns:i26="Example.com"
+
+
+<i25:Employee>
+
+<i25:Employee name>salman</i25:Employee name>
+<i25:Employee id>25</i25:Employee id>
+<i25:Employee dob>12-5-2000</i25:Employee dob>
+<i25:Department>Accounts</i25:Department>
+<salary>15000</salary>
+
+
+
+<i25:Employee>
+
+
+
+
+<i26:Employee>
+
+<i26:Employee name>salman</i26:Employee name>
+<i26:Employee id>26</i26:Employee id>
+<i26:Employee dob>12-5-2000</i26:Employee dob>
+<i26:Department>Accounts</i26:Department>
+<salary>15000</salary>
+
+
+
+</i26:Employee>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mail SYSTEM "task.dtd">
+<mail>
+
+<from>usama</from>
+<to>salman</to>
+<Massage>hello</Massage>
+
+
+</mail>

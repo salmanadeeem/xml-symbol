@@ -1,0 +1,5 @@
+<!ELEMENT Employe (id,dob,Department,salary)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT dob (#PCDATA)>
+<!ELEMENT Department (#PCDATA)>
+<!ELEMENT salary (#PCDATA)>

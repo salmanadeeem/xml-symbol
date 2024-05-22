@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Employee [
+    <!ELEMENT Employee (#PCDATA|Name|id|dob|Department|salary)*>
+    <!ELEMENT Name (#PCDATA)>
+    <!ELEMENT id (#PCDATA)>
+
+    <!ELEMENT dob (#PCDATA)>
+    <!ELEMENT Department (#PCDATA)>
+    <!ELEMENT salary (#PCDATA)>     
+]>
+<Employee>
+<Name>salman</Name>
+<Name>usama</Name>
+<id>12525</id>
+<id>12526</id>
+<dob>12-5-2000</dob>
+
+</Employee>
